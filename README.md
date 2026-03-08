@@ -3,7 +3,7 @@
 <br />
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" />
 <h1>Hi, I'm Sizar</h1>
-<p><b>Full-Stack Product Builder | Web3 & AI Specialist</b></p>
+<p><b>Full-Stack Product Builder | Passionate about Web3 & AI.</b></p>
 
 ### 🌐 Connect & Portfolio
 <br />
