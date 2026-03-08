@@ -93,12 +93,12 @@
 ---
 
 ### Contribution Flow
-<h2 align="center" style="color: #39d353;">// CONTRIBUTION_STREAM</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
+</picture>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-3d.gif" alt="3D Snake" width="100%" />
 </div>
-
-<br />
 
 </div>
