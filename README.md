@@ -1,18 +1,106 @@
-# 💫 About Me:
-Hi, I'm Sizar. <br>Full-Stack Product Builder | Passionate about Web3 & AI.
+<div align="center">
 
+<br />
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" />
+<h1>Hi, I'm Sizar</h1>
+<p><b>Full-Stack Product Builder | Web3 & AI Specialist</b></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sizar-in) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gmstree) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sizar.web@gmail.com) 
+### 🌐 Connect & Portfolio
+<br />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=scaleway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+<a href="https://sizar.devnames.com" target="_blank">
+<img src="https://img.shields.io/badge/%20Website-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://x.com/gmstree" target="_blank">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://linkedin.com/in/sizar-in" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sizar.web@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
+<br />
+<br />
 
+---
 
-# 📊 GitHub Stats:
-# ![](https://github-readme-stats.vercel.app/api?username=gmstree&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-# ![](https://nirzak-streak-stats.vercel.app/?user=gmstree&theme=default_repocard&hide_border=false)<br/>
-# ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmstree&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Specialized Tech Stack
 
-# <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Core</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,py,rust,html,css,c,cpp,cs,java,dart&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Frameworks & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,solidjs,vite,webpack,git,vscode,wordpress&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Databases & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,gcp,azure,vercel,linux,ubuntu&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Design & Creative</h4>
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+#### ⛓️ Web3 & Blockchain Infrastructure
+<p align="center">
+<a href="https://ethereum.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" title="Ethereum"/></a>&nbsp;
+<a href="https://solana.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" title="Solana"/></a>&nbsp;
+<a href="https://polygon.technology/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" title="Polygon"/></a>&nbsp;
+<a href="https://portal.arbitrum.one/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" title="Arbitrum"/></a>&nbsp;
+<a href="https://www.avax.network/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" title="Avalanche"/></a>&nbsp;
+<a href="https://chain.link/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" title="Chainlink"/></a>&nbsp;
+<a href="https://metamask.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" title="MetaMask"/></a>&nbsp;
+<a href="https://hardhat.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" title="Hardhat"/></a>&nbsp;
+<a href="https://thegraph.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" title="The Graph"/></a>&nbsp;
+<a href="https://uniswap.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" title="Uniswap"/></a>&nbsp;
+<a href="https://aave.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" title="AAVE"/></a>&nbsp;
+<a href="https://www.sushi.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" title="Sushiswap"/></a>&nbsp;
+<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" title="Web3.js"/></a>&nbsp;
+<a href="https://ethers.io" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" title="Ethers.js"/></a>&nbsp;
+<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" title="Alchemy"/></a>&nbsp;
+<a href="https://www.argent.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" title="Argent"/></a>&nbsp;
+<a href="https://www.nansen.ai/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" title="Nansen"/></a>
+</p>
+
+<br />
+
+---
+
+## 📈 Metrics & Activity
+
+<br />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=gmstree&theme=tokyonight&hide_border=true&ring=a78bfa&fire=FF6B35&currStreakLabel=a78bfa&background=0d1117" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstree&bg_color=0d1117&color=a78bfa&line=6E56CF&point=FF6B35&area=true&area_color=6E56CF&hide_border=true" width="100%" />
+
+<br />
+
+---
+
+### 🐍 Contribution Flow
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br />
+
+</div>
