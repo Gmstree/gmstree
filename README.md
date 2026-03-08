@@ -53,6 +53,9 @@
 
 <br />
 
+
+
+
 #### ⛓️‍💥 Web3 & Blockchain Infrastructure
 <p align="center">
 <a href="https://ethereum.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" title="Ethereum"/></a>&nbsp;
@@ -78,25 +81,39 @@
 
 ---
 
-## Activity
 
-<br />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=gmstree&theme=dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&background=0d1117" />
-<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstree&bg_color=0d1117&color=ffffff&line=39d353&point=39d353&area=true&area_color=0e4429&hide_border=true" width="100%" />
-<br />
 
----
 
-### Contribution Flow
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
-</picture>
+## Activity & Contribution
+<div align="center">
+  <table background="#0d1117" style="border: 1px solid #30363d; border-radius: 10px; padding: 10px;">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=gmstree&theme=dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&background=0d1117" width="360" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstree&bg_color=0d1117&color=ffffff&line=39d353&point=39d353&area=true&area_color=0e4429&hide_border=true" width="540" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h3>🐍 Snake Contribution Graph</h3>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-dark.svg"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
+          <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 </div>
