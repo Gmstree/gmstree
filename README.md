@@ -93,7 +93,7 @@
 ---
 
 ### Contribution Flow
-<h2 align="center">🐍 CONTRIBUTION FLOW</h2>
+<h2 align="center" style="color: #39d353;">// CONTRIBUTION_STREAM</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-3d.gif" alt="3D Snake" width="100%" />
