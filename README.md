@@ -96,7 +96,7 @@
 <h2 align="center">🐍 CONTRIBUTION FLOW</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-3d.gif" alt="GitHub Contribution Snake 3D" width="100%" />
+  <img src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-3d.gif" alt="3D Snake" width="100%" />
 </div>
 
 <br />
