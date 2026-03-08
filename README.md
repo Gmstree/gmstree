@@ -53,7 +53,7 @@
 
 <br />
 
-#### Web3 & Blockchain Infrastructure
+#### ⛓️‍💥 Web3 & Blockchain Infrastructure
 <p align="center">
 <a href="https://ethereum.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" title="Ethereum"/></a>&nbsp;
 <a href="https://solana.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" title="Solana"/></a>&nbsp;
