@@ -82,12 +82,10 @@
 
 <br />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=gmstree&theme=tokyonight&hide_border=true&ring=a78bfa&fire=FF6B35&currStreakLabel=a78bfa&background=0d1117" />
-
+<img src="https://nirzak-streak-stats.vercel.app/?user=gmstree&theme=dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&background=0d1117" />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstree&bg_color=0d1117&color=a78bfa&line=6E56CF&point=FF6B35&area=true&area_color=6E56CF&hide_border=true" width="100%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstree&bg_color=0d1117&color=ffffff&line=39d353&point=39d353&area=true&area_color=0e4429&hide_border=true" width="100%" />
 <br />
 
 ---
