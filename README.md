@@ -105,7 +105,7 @@
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
-        <h3>🐍 Snake Contribution Graph</h3>
+        <h3>🐍 Snake Game </h3>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-dark.svg"/>
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg"/>
