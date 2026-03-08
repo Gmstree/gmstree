@@ -1,37 +1,32 @@
-name: Generate Snake Animation
+name: generate animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # প্রতিদিন রাত ১২টায় রান হবে
+    - cron: "0 */24 * * *" 
   workflow_dispatch:
   push:
     branches:
     - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake Files
-        uses: Platane/snk@v3
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gmstree
           outputs: |
-            # ২ডি ডার্ক মোড (গ্রিন)
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39d353
-            # প্রিমিয়াম ৩ডি আইসোমেট্রিক (গ্রিন হ্যাকার স্টাইল)
             dist/github-contribution-grid-snake-3d.gif?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
+          
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
