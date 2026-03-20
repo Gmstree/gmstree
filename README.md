@@ -83,8 +83,7 @@
 
 
 
-
-
+<!--
 
 ## Activity & Contribution
 <div align="center">
@@ -115,5 +114,9 @@
     </tr>
   </table>
 </div>
+
+
+-->
+
 
 </div>
