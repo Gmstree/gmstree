@@ -54,8 +54,39 @@
 <br />
 
 
+#### Web3 & Blockchain Infrastructure
+
+<table border="0">
+  <tr>
+    <td align="center"><a href="https://ethereum.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" title="Ethereum"/></a></td>
+    <td align="center"><a href="https://solana.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" title="Solana"/></a></td>
+    <td align="center"><a href="https://polygon.technology/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" title="Polygon"/></a></td>
+    <td align="center"><a href="https://portal.arbitrum.one/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" title="Arbitrum"/></a></td>
+    <td align="center"><a href="https://www.avax.network/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" title="Avalanche"/></a></td>
+    <td align="center"><a href="https://chain.link/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" title="Chainlink"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://metamask.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" title="MetaMask"/></a></td>
+    <td align="center"><a href="https://hardhat.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" title="Hardhat"/></a></td>
+    <td align="center"><a href="https://thegraph.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" title="The Graph"/></a></td>
+    <td align="center"><a href="https://uniswap.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" title="Uniswap"/></a></td>
+    <td align="center"><a href="https://aave.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" title="AAVE"/></a></td>
+    <td align="center"><a href="https://www.sushi.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" title="Sushiswap"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" title="Web3.js"/></a></td>
+    <td align="center"><a href="https://ethers.io" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" title="Ethers.js"/></a></td>
+    <td align="center"><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" title="Alchemy"/></a></td>
+    <td align="center"><a href="https://www.argent.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" title="Argent"/></a></td>
+    <td align="center"><a href="https://www.nansen.ai/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" title="Nansen"/></a></td>
+    <td></td> </tr>
+</table>
 
 
+
+
+
+<!--
 #### ⛓️‍💥 Web3 & Blockchain Infrastructure
 <p align="center">
 <a href="https://ethereum.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" title="Ethereum"/></a>&nbsp;
@@ -78,7 +109,7 @@
 </p>
 
 <br />
-
+-->
 ---
 
 
