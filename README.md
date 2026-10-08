@@ -109,4 +109,4 @@ or/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" title="H
 </p>
 
 <br />
-
+</div>
