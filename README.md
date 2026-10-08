@@ -1,0 +1,163 @@
+<div align="center">
+
+<br />
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" />
+<h1>Hi, I'm Sizar</h1>
+<p><b>Full-Stack Product Builder | Passionate about Web3 & AI.</b></p>
+
+### 🌐 Connect & Portfolio
+<br />
+
+<a href="https://sizar.devnames.com" target="_blank">
+<img src="https://img.shields.io/badge/%20Website-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://x.com/gmstree" target="_blank">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://linkedin.com/in/sizar-in" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sizar.web@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br />
+<br />
+
+---
+
+## Tech Stack
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Core</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,py,rust,html,css,c,cpp,cs,java,dart&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Frameworks & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,solidjs,vite,webpack,git,vscode,wordpress&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Databases & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,gcp,azure,vercel,linux,ubuntu&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Design & Creative</h4>
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
+#### Web3 & Blockchain Infrastructure
+
+<table border="0">
+  <tr>
+    <td align="center"><a href="https://ethereum.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" title="Ethereum"/></a></td>
+    <td align="center"><a href="https://solana.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" title="Solana"/></a></td>
+    <td align="center"><a href="https://polygon.technology/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" title="Polygon"/></a></td>
+    <td align="center"><a href="https://portal.arbitrum.one/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" title="Arbitrum"/></a></td>
+    <td align="center"><a href="https://www.avax.network/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" title="Avalanche"/></a></td>
+    <td align="center"><a href="https://chain.link/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" title="Chainlink"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://metamask.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" title="MetaMask"/></a></td>
+    <td align="center"><a href="https://hardhat.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" title="Hardhat"/></a></td>
+    <td align="center"><a href="https://thegraph.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" title="The Graph"/></a></td>
+    <td align="center"><a href="https://uniswap.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" title="Uniswap"/></a></td>
+    <td align="center"><a href="https://aave.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" title="AAVE"/></a></td>
+    <td align="center"><a href="https://www.sushi.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" title="Sushiswap"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" title="Web3.js"/></a></td>
+    <td align="center"><a href="https://ethers.io" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" title="Ethers.js"/></a></td>
+    <td align="center"><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" title="Alchemy"/></a></td>
+    <td align="center"><a href="https://www.argent.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" title="Argent"/></a></td>
+    <td align="center"><a href="https://www.nansen.ai/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" title="Nansen"/></a></td>
+    <td></td> </tr>
+</table>
+
+
+
+
+
+<!--
+#### ⛓️‍💥 Web3 & Blockchain Infrastructure
+<p align="center">
+<a href="https://ethereum.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" title="Ethereum"/></a>&nbsp;
+<a href="https://solana.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" title="Solana"/></a>&nbsp;
+<a href="https://polygon.technology/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" title="Polygon"/></a>&nbsp;
+<a href="https://portal.arbitrum.one/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" title="Arbitrum"/></a>&nbsp;
+<a href="https://www.avax.network/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" title="Avalanche"/></a>&nbsp;
+<a href="https://chain.link/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" title="Chainlink"/></a>&nbsp;
+<a href="https://metamask.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" title="MetaMask"/></a>&nbsp;
+<a href="https://hardhat.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" title="Hardhat"/></a>&nbsp;
+<a href="https://thegraph.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" title="The Graph"/></a>&nbsp;
+<a href="https://uniswap.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" title="Uniswap"/></a>&nbsp;
+<a href="https://aave.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" title="AAVE"/></a>&nbsp;
+<a href="https://www.sushi.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" title="Sushiswap"/></a>&nbsp;
+<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" title="Web3.js"/></a>&nbsp;
+<a href="https://ethers.io" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" title="Ethers.js"/></a>&nbsp;
+<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" title="Alchemy"/></a>&nbsp;
+<a href="https://www.argent.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" title="Argent"/></a>&nbsp;
+<a href="https://www.nansen.ai/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" title="Nansen"/></a>
+</p>
+
+<br />
+-->
+---
+
+## 📊 Activity & 3D Contribution Skyline
+
+<div align="center">
+
+### 🏙️ 3D Contribution Skyline
+<p><i>Visualizing year-round commits as an isometric 3D architectural skyline</i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/main/profile-3d-contrib/profile-green.svg" />
+  <img src="https://raw.githubusercontent.com/gmstree/gmstree/main/profile-3d-contrib/profile-night-rainbow.svg" alt="gmstree's 3D GitHub Contribution Skyline" width="100%" />
+</picture>
+
+<br />
+
+<table background="#0d1117" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; max-width: 950px; width: 100%;">
+  <tr>
+    <td align="center" valign="middle" width="40%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=gmstree&theme=dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&background=0d1117" width="100%" alt="GitHub Streak" />
+    </td>
+    <td align="center" valign="middle" width="60%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstree&bg_color=0d1117&color=ffffff&line=39d353&point=39d353&area=true&area_color=0e4429&hide_border=true" width="100%" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🐍 Contribution Grid Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  <p align="center">
+    <a href="https://skyline.github.com/gmstree" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20in%203D%20VR-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Skyline in 3D" />
+    </a>
+  </p>
+</div>
+
+</div>
+
