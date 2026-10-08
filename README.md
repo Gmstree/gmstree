@@ -112,41 +112,29 @@
 -->
 ---
 
-## 📊 Activity & 3D Contribution Skyline
+## 📊 3D Contribution Skyline
 
 <div align="center">
 
-### 🏙️ 3D Contribution Skyline
 <p><i>Visualizing year-round commits as an isometric 3D architectural skyline</i></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/main/profile-3d-contrib/profile-green.svg" />
-  <img src="https://raw.githubusercontent.com/gmstree/gmstree/main/profile-3d-contrib/profile-night-rainbow.svg" alt="gmstree's 3D GitHub Contribution Skyline" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Skyline" width="100%" />
 </picture>
 
 <br />
+<br />
 
-<table background="#0d1117" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; max-width: 950px; width: 100%;">
-  <tr>
-    <td align="center" valign="middle" width="40%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=gmstree&theme=dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&background=0d1117" width="100%" alt="GitHub Streak" />
-    </td>
-    <td align="center" valign="middle" width="60%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstree&bg_color=0d1117&color=ffffff&line=39d353&point=39d353&area=true&area_color=0e4429&hide_border=true" width="100%" alt="Activity Graph" />
-    </td>
-  </tr>
-</table></div>
+<p align="center">
+  <a href="https://skyline.github.com/gmstree" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20in%203D%20VR-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Skyline in 3D" />
+  </a>
+</p>
 
----
-
-<div align="center">
-  <p align="center">
-    <a href="https://skyline.github.com/gmstree" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20in%203D%20VR-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Skyline in 3D" />
-    </a>
-  </p>
 </div>
 
 </div>
+
 
