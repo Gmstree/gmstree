@@ -136,18 +136,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstree&bg_color=0d1117&color=ffffff&line=39d353&point=39d353&area=true&area_color=0e4429&hide_border=true" width="100%" alt="Activity Graph" />
     </td>
   </tr>
-</table>
-
-<br />
-
-### 🐍 Contribution Grid Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gmstree/gmstree/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
+</table></div>
 
 ---
 
