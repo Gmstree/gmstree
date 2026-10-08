@@ -26,6 +26,24 @@
 
 ---
 
+or/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" title="Hardhat"/></a></td>
+    <td align="center"><a href="https://thegraph.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" title="The Graph"/></a></td>
+    <td align="center"><a href="https://uniswap.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" title="Uniswap"/></a></td>
+    <td align="center"><a href="https://aave.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" title="AAVE"/></a></td>
+    <td align="center"><a href="https://www.sushi.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" title="Sushiswap"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" title="Web3.js"/></a></td>
+    <td align="center"><a href="https://ethers.io" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" title="Ethers.js"/></a></td>
+    <td align="center"><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" title="Alchemy"/></a></td>
+    <td align="center"><a href="https://www.argent.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" title="Argent"/></a></td>
+    <td align="center"><a href="https://www.nansen.ai/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" title="Nansen"/></a></td>
+    <td></td> </tr>
+</table>
+
+
+
+
 ## Tech Stack
 
 <table width="100%">
@@ -67,25 +85,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://metamask.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" title="MetaMask"/></a></td>
-    <td align="center"><a href="https://hardhat.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" title="Hardhat"/></a></td>
-    <td align="center"><a href="https://thegraph.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" title="The Graph"/></a></td>
-    <td align="center"><a href="https://uniswap.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" title="Uniswap"/></a></td>
-    <td align="center"><a href="https://aave.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" title="AAVE"/></a></td>
-    <td align="center"><a href="https://www.sushi.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" title="Sushiswap"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" title="Web3.js"/></a></td>
-    <td align="center"><a href="https://ethers.io" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" title="Ethers.js"/></a></td>
-    <td align="center"><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" title="Alchemy"/></a></td>
-    <td align="center"><a href="https://www.argent.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" title="Argent"/></a></td>
-    <td align="center"><a href="https://www.nansen.ai/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" title="Nansen"/></a></td>
-    <td></td> </tr>
-</table>
-
-
-
-
-
+    <td align="center"><a href="https://hardhat.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generat
 <!--
 #### ⛓️‍💥 Web3 & Blockchain Infrastructure
 <p align="center">
