@@ -119,9 +119,9 @@
 <p><i>Visualizing year-round commits as an isometric 3D architectural skyline</i></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Skyline" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./skyline-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./skyline-light.svg" />
+  <img src="./skyline-dark.svg" alt="3D GitHub Contribution Skyline" width="100%" />
 </picture>
 
 <br />
